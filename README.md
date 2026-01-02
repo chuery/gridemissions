@@ -1,4 +1,4 @@
-<img width="512" height="67" alt="image" src="https://github.com/user-attachments/assets/00eb7340-6b27-4e09-98f4-19e110682ab5" /># Carbon Neutrality Assessment of Microsoft’s Texas Data Center Strategy
+# Carbon Neutrality Assessment of Microsoft’s Texas Data Center Strategy
 
 **Research Question:** If Microsoft opens a data center in Texas and also signs a power purchase agreement (PPA) for the same amount of renewable energy generated in Texas, is this “carbon neutral”?
 
